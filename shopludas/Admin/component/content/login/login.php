@@ -1,0 +1,1 @@
+<?php include $level.COMPONENT_PATH.CONTENT_PATH.'login/main-content/main-content.php'?>

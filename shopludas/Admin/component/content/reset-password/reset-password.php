@@ -1,0 +1,1 @@
+<?php include $level.COMPONENT_PATH.CONTENT_PATH.'reset-password/main-content/main-content.php'?>

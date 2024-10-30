@@ -1,0 +1,1 @@
+<?php include $level.COMPONENT_PATH.CONTENT_PATH.'lock-screen/main-content/main-content.php'?>

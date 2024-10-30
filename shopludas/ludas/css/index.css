@@ -1,0 +1,7 @@
+/* Style cho popup */
+.popup {
+    display: block;
+    padding: 20px;
+    background-color: #fff;
+    z-index: 1000;
+}
